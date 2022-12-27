@@ -20,7 +20,7 @@
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"/></a>&nbsp
+  <a href="https://wonder202.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black&link=https://wonder202.tistory.com/"/></a>&nbsp
+  <a href="mailto:leehyesu95@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leehyesu95@gmail.com"/></a>
 </p>
