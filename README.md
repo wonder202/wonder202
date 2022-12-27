@@ -20,7 +20,7 @@
 </p>
 <h3 align="center">🌈 Channel & Contact 🌈</h3>
 <p align="center">
-  <a href="https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"><img src="https://img.shields.io/badge/Notion-#E8E8E8?style=flat-square&logo=Notion&logoColor=black&link=https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"/></a>&nbsp
-  <a href="https://wonder202.tistory.com/"><img src="https://img.shields.io/badge/Tistory-#E8E8E8?style=flat-square&logo=Tistory&logoColor=black&link=https://wonder202.tistory.com/"/></a>&nbsp
+  <a href="https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"><img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat-square&logo=Notion&logoColor=black&link=https://glossy-zone-870.notion.site/Wonder-B-92cf1bd214f1423592db72bca2fcf684"/></a>&nbsp
+  <a href="https://wonder202.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E8E8E8?style=flat-square&logo=Tistory&logoColor=black&link=https://wonder202.tistory.com/"/></a>&nbsp
   <a href="mailto:leehyesu95@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leehyesu95@gmail.com"/></a>
 </p>
