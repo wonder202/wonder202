@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7E4DD2&height=300&section=header&text=Hey,%20I'm%20Wonder.B&fontSize=90&fontColor=ffffff)
+<p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=7E4DD2&height=300&section=header&text=Hey,%20I'm%20Wonder.B&fontSize=90&fontColor=ffffff)
+</p>
 
 <h3 align="center">🛠️ Skill Stack 🛠️</h3>
 <p align="center">
