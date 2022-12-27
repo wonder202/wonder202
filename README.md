@@ -25,3 +25,8 @@
   <a href="https://wonder202.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E8E8E8?style=flat-square&logo=Tistory&logoColor=black&link=https://wonder202.tistory.com/"/></a>&nbsp
   <a href="mailto:leehyesu95@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leehyesu95@gmail.com"/></a>
 </p>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Wonder.B's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder202&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/wonder202/github-readme-stats)
+</div>
