@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wonder.B%20Hy%eSu%Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wonder.B%20Hye%Su%Lee&fontSize=90)
 
 <h3 align="center">🛠️ Skill Stack 🛠️</h3>
 <p align="center">
