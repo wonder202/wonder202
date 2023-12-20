@@ -12,7 +12,7 @@
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img alt="Quasar" src ="https://img.shields.io/badge/Quasar-59666C.svg?&style=for-the-badge&logo=Quasar&logoColor=white"/></a>&nbsp 
   <img alt="Vueuse" src ="https://img.shields.io/badge/Vueuse-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img alt="Tiptab" src ="https://img.shields.io/badge/Vueuse-4FC08D.svg?&style=for-the-logo=Quasar&logoColor=white"/></a>&nbsp 
+  <img alt="Tiptab" src ="https://img.shields.io/badge/Tiptab-4FC08D.svg?&style=for-the-logo=Tiptab&logoColor=white"/></a>&nbsp 
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/></a>&nbsp 
 </p>
